@@ -1,8 +1,8 @@
 # RightScript
-RightScript is a TypeScript fork that aims to be 100% TypeScript Compatible via typescript-rightscript bridge that installs as typescript so that other tooling can pick it up.
+typees is a TypeScript fork that aims to be 100% TypeScript Compatible via typees-rightscript bridge that installs as typescript so that other tooling can pick it up.
 
 
-RightScript got invented as TypeScript did many things right but major things wrong and the Project showed that it does not get Upgrades into the Source fast and stable so there was a need for a Porject that is based on all good TypeScript Concepts and the valueable parts of the codebase while still allow fast evolution and adoption. We plan to adopt many 3th party projects from the community directly into RightScript to give the developer a better and more consistent dev expirence
+typees got invented as TypeScript did many things right but major things wrong and the Project showed that it does not get Upgrades into the Source fast and stable so there was a need for a Porject that is based on all good TypeScript Concepts and the valueable parts of the codebase while still allow fast evolution and adoption. We plan to adopt many 3th party projects from the community directly into RightScript to give the developer a better and more consistent dev expirence
 
 A other Importent factor that this exists is that we at https://dspeed.eu needed a ECMA2021 Build of it to run it more performant on our Platform and in our Code Editors.
 
