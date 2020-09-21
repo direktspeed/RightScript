@@ -6,6 +6,12 @@ RightScript got invented as TypeScript did many things right but major things wr
 
 A other Importent factor that this exists is that we at https://dspeed.eu needed a ECMA2021 Build of it to run it more performant on our Platform and in our Code Editors.
 
+## Main Features
+- Working CJS and ESM Interop. ***Not Aiming NODEJS Package.json Compatible Algo without Plugin*** we default for everything to ESM Only and you should try to transpil everything to ESM befor you work with it.
+
+
+## Contributing
+
 The Project is at present only maintained by Frank Lemanschik on a private need base while it is Apache 2.0 Licenced and is willing and welcoming contributions from other projects and the whole community.
 
 Are Listed in the issues Section under the WIP label that can change to DRAFT when inactive. If you have a idea or pull request Simply do a pull request.
